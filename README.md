@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nareen Harsha
 
-<!--
-**NAREENHARSHA/NAREENHARSHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineering Student at Amrita Vishwa Vidyapeetham  
+🌍 Based in: **Chennai, Tamil Nadu**  
+💡 Focused on: AI Engineering | Full Stack Development | Cloud Architecting  
+🌱 Currently upskilling in **Java, React, YOLOv9, and Cloud Solutions**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Where I Code From
+
+💻 **Laptop Specs - HP Victus**   
+- **Processor**: 12th Gen Intel(R) Core(TM) i5-12450H @ 2.00GHz  
+- **GPU**: NVIDIA RTX 3025  
+- **RAM**: 16.0 GB  
+- **System Type**: 64-bit OS
+
+
+---
+
+## 🛠️ My IDE & Tools
+
+- **VS Code**: My primary editor
+- **Jupyter**: For AI/ML experiments
+- **Git**: Version control  
+- **Docker**: Containerization  
+- **Postman**: API testing  
+  
+
+---
+
+
+## 💻 Languages I Know
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+
+---
+
+## 📬 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nareenharsha-v-606553278//)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nareenharshavenkat@gmail.com)  
+
+
+---
+
+## 📈 GitHub Stats
+
+![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAREENHARSHA&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAREENHARSHA&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ GitHub Activity
+
+![Harsha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAREENHARSHA&theme=tokyonight)
+
+---
+
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=contest)](https://leetcode.com/NAREENHARSHA/)
+
+---
+
+## ✨ Quote I Live By
+
+> "When something is important enough, you do it even if the odds are not in your favor." – **Elon Musk**
+
