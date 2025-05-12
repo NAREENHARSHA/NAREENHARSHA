@@ -64,7 +64,7 @@
 
 ## 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=contest)](https://leetcode.com/u/NAREENHARSHA/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NAREENHARSHA?theme=dark&ext=contest)](https://leetcode.com/u/NAREENHARSHA/)
 
 ---
 
