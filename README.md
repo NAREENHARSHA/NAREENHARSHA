@@ -48,7 +48,7 @@
 ## 📬 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nareenharsha-v-606553278//)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nareenharshavenkat@gmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailTo:nareenharshavenkat@gmail.com)  
 
 
 ---
