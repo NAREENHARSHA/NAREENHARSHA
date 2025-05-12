@@ -60,11 +60,7 @@
 
 ---
 
-## ⚡ GitHub Activity
 
-![Harsha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAREENHARSHA&theme=tokyonight)
-
----
 
 ## 🧠 LeetCode Stats
 
