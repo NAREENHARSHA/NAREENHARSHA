@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Nareen Harsha
 
-🎓 AI Engineering Student at Amrita Vishwa Vidyapeetham  
+🎓 Final-year B.Tech (Artifical Intelligence) Student at Amrita Vishwa Vidyapeetham   
 🌍 Based in: **Chennai, Tamil Nadu**  
 💡 Focused on: AI Engineering | Full Stack Development | Cloud Architecting  
-🌱 Currently upskilling in **Java, React, YOLOv9, and Cloud Solutions**
+🌱 Currently upskilling in **Java, Computer Vision, React, and Cloud Solutions**
 
 ---
 
